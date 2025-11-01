@@ -1,3 +1,4 @@
 # DT-MTDS
 
-![Video Alt Text](video.mp4)
+![Video Alt Text](https://github.com/lishaodong-lab/DT-MTDS/video.mp4)
+
