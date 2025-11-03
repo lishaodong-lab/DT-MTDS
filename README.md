@@ -1,5 +1,6 @@
 # DT-MTDS
 
-![DT-MTDS](gif_video.gif)
+![DT-MTDS](video.gif)
+
 
 
