@@ -1,6 +1,6 @@
 # DT-MTDS
 
-!(video)[video.gif]
+![video.gif](video.gif)
 
 ## The introduction and implementation of code
 
